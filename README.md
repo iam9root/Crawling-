@@ -8,4 +8,4 @@
 * '제목(URL)' 포멧으로 출력
 * list.txt 파일에 '제목(링크)' 텍스트 포멧으로 저장
 * '웹툰 제목(링크)' 텍스트 리스트 형태로 저장된 list 라는 이름의 html 파일 생성
-* ![Crawling](./html.PNG)
+* ![Crawling](./html.png)
