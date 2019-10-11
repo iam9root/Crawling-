@@ -53,7 +53,7 @@ f = open('list.text','wt')
 f.write('Djangostudy\n')
 f.close()
 
-f = open('list.txt','a')
+f = open('list.text','a')
 f.write(result)
 f.close()
 
